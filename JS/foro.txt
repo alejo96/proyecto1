@@ -1,0 +1,10 @@
+Como se plantea en la norma NTE INEN ISO/IEC 40500
+La web debe cumplir cierto tipo de requisitos tales como que el
+contenido que publique debe ser accedido por diversos usuarios ya sean 
+para personas con o sin discapacidad, que sea de facil entendimiento, además
+esta debe poseer herramientas de apoyo, satisfaciendo por completo el nivel de
+conformidad AA. Para demostrar que la web es accesible debe estar avalado por
+por un certificado de conformidad que es llevada a cabo por una organización
+competente,el cual debe estar colocado en el sitio Web. Cabe recalcar que estas normas
+no son aplicadas al momento de acceder a diversas aplicaciones de 
+usuarios.
